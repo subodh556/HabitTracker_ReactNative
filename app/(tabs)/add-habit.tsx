@@ -95,10 +95,13 @@ const styles = StyleSheet.create({
     padding: 16,
     backgroundColor: "#f5f5f5",
     justifyContent: "center",
+
   },
 
   input: {
     marginBottom: 16,
+    backgroundColor: "white",
+    
   },
 
   frequencyContainer: {
